@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color:white;
+}
+
+.skills{
+    margin-top: 100px;
+    
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.sk{
+    margin-left: 100px;
+}
+.tskill{
+    margin-left: 230px;
+}
+
+.navbar{
+    margin-left: 60%;
+    margin-top: 20px;
+}
+.nav{
+    margin-left: 20px;
+    color: rgb(255, 255, 255);
+    font-size: 19px;
+ 
+}

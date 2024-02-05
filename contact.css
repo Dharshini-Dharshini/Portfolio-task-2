@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: white;
+}
+.me{
+    margin-left: 40%;
+}
+.navbar{
+    margin-left: 60%;
+    margin-top: 20px;
+}
+.nav{
+    margin-left: 20px;
+    color: rgb(255, 255, 255);
+    font-size: 19px;
+ 
+}
